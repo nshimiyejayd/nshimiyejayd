@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nshimiyejayd
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning computer science
+- 🌱 I’m a fullstack developer
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me nshimiyejayd200@gmail.com
 
